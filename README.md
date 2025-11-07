@@ -24,11 +24,9 @@ Atualmente, busco oportunidades de **estágio ou posição júnior** onde eu pos
 
 ## 📫 Como me encontrar
 
-📍 Paulista, Pernambuco – Brasil  
-📧 [lluizapesssoa@gmail.com](mailto:lluizapesssoa@gmail.com)  
-💼 [LinkedIn - Maria Luiza Pessoa](https://www.linkedin.com/in/maria-luiza-pessoa-95b5b2268)  
-💻 [GitHub - MariaLuizaPessoa](https://github.com/SEU_USUARIO)
+📍 Pernambuco – Brasil  
+[lluizapesssoa@gmail.com](mailto:lluizapesssoa@gmail.com)  
+[LinkedIn - Maria Luiza Pessoa](https://www.linkedin.com/in/maria-luiza-pessoa-95b5b2268)  
+[GitHub - MariaLuizaPessoa](https://github.com/SEU_USUARIO)
 
----
 
-### 💬 “Transformar lógica e dados em soluções que geram impacto é o que me move na tecnologia.”
