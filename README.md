@@ -24,9 +24,6 @@ Atualmente, busco oportunidades de **estágio ou posição júnior** onde eu pos
 
 ## 📫 Como me encontrar
 
-📍 Pernambuco – Brasil  
-[lluizapesssoa@gmail.com](mailto:lluizapesssoa@gmail.com)  
-[LinkedIn - Maria Luiza Pessoa](https://www.linkedin.com/in/maria-luiza-pessoa-95b5b2268)  
-[GitHub - MariaLuizaPessoa](https://github.com/SEU_USUARIO)
+[lluizapesssoa@gmail.com](mailto:lluizapesssoa@gmail.com) | [LinkedIn - Maria Luiza Pessoa](https://www.linkedin.com/in/maria-luiza-pessoa-95b5b2268)  
 
 
