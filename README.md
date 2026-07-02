@@ -2,7 +2,7 @@
 
 Desenvolvedora e analista de dados com experiência em Python, SQL, Power BI e Excel para análise, tratamento e visualização de dados. Possuo base sólida em Back-end com JavaScript e modelagem de dados, e atualmente expando meus conhecimentos em Testes de Software (QA).
 
-Habilidades
+### Habilidades
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
