@@ -1,6 +1,5 @@
 ## Olá, sou a Maria Luiza! 
 
-<!--
 Desenvolvedora e analista de dados com experiência em Python, SQL, Power BI e Excel para análise, tratamento e visualização de dados. Possuo base sólida em Back-end com JavaScript e modelagem de dados, e atualmente expando meus conhecimentos em Testes de Software (QA).
 
 Habilidades
@@ -10,5 +9,4 @@ Habilidades
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
--->
 
